@@ -1,6 +1,6 @@
 # Description
  Custom firmware <b>config for my personal</b> TEVO Tarantula <b>3D printer</b>. <br>
- Changes were and are made within Configuration.h. <br>
+ Changes were and are made within ~/Marlin/Configuration.h. <br>
 <a href="https://www.facebook.com/groups/TEVO.3dprinter.owners"><img align="right" width=300 src="https://i.pinimg.com/originals/b3/ee/63/b3ee6377f1f383fbcf2b46c520480f45.jpg" alt="TEVO LOGO"/></a>
 ### [TEVO Tarantula's Official Manual](https://www.youtube.com/watch?v=_0F4T4aBN8c)
 
