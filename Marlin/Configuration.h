@@ -1,36 +1,18 @@
 /**************** TEVO TARANTULA EASY CONFIG ***************************
             Original idea by terryb.print3d@gmail.com
              Modified by jb.github@rcairgallery.com
+              Customized by Scaglione
 
     The latest version of Terry's original file will always be found at:
           https://github.com/terryb58/Marlin-EasyConfig
 
-    The latest version of this file (and complete firmware) will always
-  be found at:
+    The original version of this file will always be found at:
           https://github.com/JimBrown/MarlinTarantula
-
-    This is an attempt to create a simple configuration for as many
-  different Tevo Tarantula variants as possible.  This will always be
-  a work in progress. Email me if you have any questions, suggestions,
-  or if you encounter problems when using Easy Config.
-
-    This is a Marlin 2.0.x configuration file. I will update this as
-  new versions of Marlin are released.
-
-    NOTE: Sanity check should still work and should not show any errors.
-      Please report any errors.  Thank you.
-
-    NOTE: Don't forget to do an M502 followed by an M500 any time you
-      upload the firmware.
-
-    See https://youtu.be/-sQ8p00pG5E for an excellent tutorial on using
-    this firmware.
 
 ***********************************************************************/
 
 #define PRINTER_NAME "Scagli Tarantula"  // Change this to whatever you wish, or leave it as it is.
                                                     // NOTE: Whatever you put here will have " Ready..." appended to it.
-
 /**
  * Equipment options
  */
